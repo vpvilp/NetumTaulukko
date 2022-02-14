@@ -1,0 +1,27 @@
+[
+    {
+        "id" : "1",
+        "enimi": "Matti",
+        "snimi": "Mallikas",
+        "ika": "20"
+    },
+    {
+        "id" : "2",
+        "enimi": "Olli",
+        "snimi": "Olematon",
+        "ika": "41"
+    
+    },
+    {
+        "id" : "3",
+        "enimi": "Essi",
+        "snimi": "Esimerkki",
+        "ika": "62"
+    },
+    {
+        "id" : "4",
+        "enimi": "Kaisa",
+        "snimi": "Kuvitteellinen",
+        "ika": "35"
+    }
+    ]
